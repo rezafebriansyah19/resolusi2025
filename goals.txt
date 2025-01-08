@@ -1,6 +1,6 @@
 
 Pencapaian di tahun 2024 :
-1. Memahami XML
+1. Memahami PHP
 2. Memahami HTML
 3. Memahami CSS
 4. Memahami SQL
